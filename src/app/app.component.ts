@@ -42,4 +42,4 @@ export class AppComponent implements OnInit {
     zoom: 15,
     center: latLng(45.019487, 39.031094)
   };
-} 
+}
