@@ -9,10 +9,13 @@
     "test": "ng test"
   },
   "private": true,
+<<<<<<< HEAD
   "engines": {
     "npm": "10",
     "node": "20"
   },
+=======
+>>>>>>> fead0b7 (final fix)
   "dependencies": {
     "@angular/animations": "^17.3.0",
     "@angular/common": "^17.3.0",
@@ -23,7 +26,10 @@
     "@angular/platform-browser-dynamic": "^17.3.0",
     "@angular/router": "^17.3.0",
     "@asymmetrik/ngx-leaflet": "^17.0.0",
+<<<<<<< HEAD
     "leaflet": "^1.9.4",
+=======
+>>>>>>> fead0b7 (final fix)
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.3"

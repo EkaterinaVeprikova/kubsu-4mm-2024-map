@@ -30,8 +30,12 @@
               "src/assets"
             ],
             "styles": [
+<<<<<<< HEAD
               "src/styles.scss",
               "./node_modules/leaflet/dist/leaflet.css"
+=======
+              "src/styles.scss"
+>>>>>>> fead0b7 (final fix)
             ],
             "scripts": []
           },
